@@ -62,7 +62,7 @@ export default function Footer() {
                   target="_blank"
                   className="text-gray-700 transition hover:opacity-75"
                 >
-                  <span className="sr-only ">Facebook</span>
+                  <span className="sr-only">Facebook</span>
 
                   <svg
                     className="h-6 w-6"
